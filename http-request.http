@@ -1,0 +1,10 @@
+###
+GET http://localhost:8080/byAddress/nevsk
+
+
+###
+GET http://localhost:8080/byNamePatternAndAge/30/ivan
+
+
+
+###
